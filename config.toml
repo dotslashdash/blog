@@ -1,4 +1,4 @@
-baseURL = 'https://dam0.org/'
+baseURL = 'https://dotslashdash.github.io/hugo/'
 languageCode = 'en-us'
-title = 'dam0.org'
+title = 'blog'
 theme = 'blog'

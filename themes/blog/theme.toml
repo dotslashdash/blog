@@ -2,9 +2,9 @@ name = "Blog"
 license = "MIT"
 licenselink = ""
 description = "Theme for my blog."
-homepage = "https://dam0.org"
+homepage = "https://dotslashdash.github.io/hugo"
 min_version = "0.41.0"
 
 [author]
-  name = "dam0"
-  homepage = "https://dam0.org"
+  name = "dotslashdash"
+  homepage = "https://dotslashdash.github.io/hugo"
