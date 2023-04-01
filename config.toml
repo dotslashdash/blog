@@ -1,0 +1,4 @@
+baseURL = 'https://dam0.org/'
+languageCode = 'en-us'
+title = 'dam0.org'
+theme = 'blog'

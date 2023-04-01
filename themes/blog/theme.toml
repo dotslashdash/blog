@@ -1,0 +1,10 @@
+name = "Blog"
+license = "MIT"
+licenselink = ""
+description = "Theme for my blog."
+homepage = "https://dam0.org"
+min_version = "0.41.0"
+
+[author]
+  name = "dam0"
+  homepage = "https://dam0.org"
