@@ -1,8 +1,7 @@
 # dotslashdash.github.io
 This repo contains the code for my Github Pages blog.
 
-The configuration for the Pages workflow is contained in
-`.github/workflows/hugo.yaml`.
+The configuration for the Pages workflow is contained in `.github/workflows/hugo.yaml`.
 
 To add a new post, generate a markdown file with hugo:
 ```
