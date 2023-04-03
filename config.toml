@@ -1,4 +1,4 @@
-baseURL = 'https://dotslashdash.github.io/hugo/'
+baseURL = 'https://dotslashdash.github.io'
 languageCode = 'en-us'
 title = 'blog'
 theme = 'blog'
