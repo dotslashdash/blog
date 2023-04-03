@@ -1,8 +1,7 @@
 # dotslashdash.github.io
 This repo contains the code for my Github Pages blog.
 
-## Add content
-Create a new post:
+To add a new post, generate a markdown file with hugo:
 ```
-$ hugo new content/2023-03-31-code-test.md
+$ hugo new content/2023-01-01-post-title.md
 ```
